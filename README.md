@@ -30,7 +30,7 @@ Environment Variables
 - Open the .env file and configure the following variables:
 
 ### Server Configuration
-`PORT=4000`
+`PORT=5500`
 
 ### Database Configuration
 `DATABASE_URL="postgresql://USER:PASSWORD@HOST:PORT/DATABASE?schema=public"`
